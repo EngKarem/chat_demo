@@ -1,3 +1,5 @@
+llama_index
+python-dotenv
 absl-py==2.1.0
 aiohappyeyeballs==2.3.4
 aiohttp==3.10.1
